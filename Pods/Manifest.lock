@@ -1,0 +1,24 @@
+PODS:
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - Stripe (21.2.0):
+    - Stripe/Stripe3DS2 (= 21.2.0)
+  - Stripe/Stripe3DS2 (21.2.0)
+
+DEPENDENCIES:
+  - SQLite.swift (~> 0.12.2)
+  - Stripe
+
+SPEC REPOS:
+  trunk:
+    - SQLite.swift
+    - Stripe
+
+SPEC CHECKSUMS:
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  Stripe: 37f742a4815882db4454188664a3aa61793a12b1
+
+PODFILE CHECKSUM: f45eeaa688e415c78a872740fde35e1f18de9655
+
+COCOAPODS: 1.10.1
